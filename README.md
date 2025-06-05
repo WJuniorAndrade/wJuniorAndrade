@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo WJunior Andrade, sou apaixonado por tecnologia e desenvolvimento de software. Tenho experiência em várias linguagens e frameworks, e gosto de compartilhar meu conhecimento através de projetos no GitHub e redes sociais. Sempre buscando aprender e evoluir no mundo da programação.
+Sou apaixonado por tecnologia e desenvolvimento de software. Tenho experiência em várias linguagens e frameworks, e gosto de compartilhar meu conhecimento através de projetos no GitHub e redes sociais. Sempre buscando aprender e evoluir no mundo da programação.
 
 ### 🤖 Linguagens e Tecnologias
 
