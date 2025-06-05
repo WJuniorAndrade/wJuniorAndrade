@@ -1,6 +1,6 @@
 https://github.com/WJuniorAndrade
 
-# 👨🏻‍💻 WJunior Andrade
+# 👨🏻‍💻 Junior Andrade
 
 **`Desenvolvedor FullStack`**
 
@@ -92,6 +92,7 @@ Me chamo WJunior Andrade, sou apaixonado por tecnologia e desenvolvimento de sof
     align="left" 
     alt="GitHub Stats" 
     height="200" 
+    width="500px"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=WJuniorAndrade&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
