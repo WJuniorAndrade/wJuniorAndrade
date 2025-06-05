@@ -46,19 +46,16 @@ Olá! Sou Junior Andrade, Analista de Sistemas formado em 2022, atualmente atuan
 
 ### 📊 Estatísticas do GitHub
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=WJuniorAndrade&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+<div style="display: flex; gap: 10px;">
+  <img
+    alt="GitHub Stats"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=WJuniorAndrade&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WJuniorAndrade&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img
+    alt="Top Langs"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WJuniorAndrade&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
-</p>
+</div>
