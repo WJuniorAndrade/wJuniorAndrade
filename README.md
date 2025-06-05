@@ -1,5 +1,3 @@
-https://github.com/WJuniorAndrade
-
 # 👨🏻‍💻 Junior Andrade
 
 **`Desenvolvedor FullStack`**
